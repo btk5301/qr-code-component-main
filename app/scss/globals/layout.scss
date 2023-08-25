@@ -1,0 +1,12 @@
+@use "../util/" as *;
+
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include breakpoint(large) {
+    padding: 0;
+  }
+}
