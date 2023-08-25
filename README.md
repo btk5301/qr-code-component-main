@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# QR code component
 
 ## Table of contents
 
