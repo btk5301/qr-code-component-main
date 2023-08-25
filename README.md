@@ -35,8 +35,6 @@
 - Using SCSS and SCSS organization
 - Getting image to fit parent div
 
-To see how you can add code snippets, see below:
-
 ```scss
 .card__image {
   height: 100%;
